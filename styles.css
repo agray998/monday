@@ -4,6 +4,8 @@ body {
 
 th {
     background-color: slategray;
+    color: brown;
+    font-weight: bold;
 }
 
 tr {
