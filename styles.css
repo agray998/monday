@@ -1,0 +1,11 @@
+body {
+   background-color: lightblue; 
+}
+
+th {
+    background-color: slategray;
+}
+
+tr {
+    background-color: darkgray;
+}
